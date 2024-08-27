@@ -1,0 +1,2 @@
+age,hypertension,heart_disease,smoking_history,bmi,HbA1c_level,blood_glucose_level,gender,result,model
+22.0,1,1,0,21.928862769176792,5.3,84.0,1,Tidak Diabetes,Decision Tree
